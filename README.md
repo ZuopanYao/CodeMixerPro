@@ -1,5 +1,5 @@
 # CodeMixerPro
-在H5游戏项目中需要添加垃圾代码作混淆，提高过审机率。手动添加太费时费力，在网上并没有找到合适的比较好的工具，就自己动手写了一个垃圾代码添加工具，命名为ChaosTool，CodeMixer是ChaosTool增强版
+macOS平台下的iOS混淆/添加垃圾代码工具,生成的代码规范,提高马甲包的过审机率，支持Swift/Objective-C，CodeMixer的增强版
 
 ## CodeMixerPro安装环境
 - macOS 10.13+ (不支持Windows)
