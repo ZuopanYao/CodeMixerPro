@@ -2,17 +2,19 @@
 <channel>
 <title>CodeMixerPro</title>
 <item>
-<title>1.0.0 Beta88</title>
+<title>1.0.0 Beta4</title>
 <description><![CDATA[
-      <h4>标题444</h4>
-      <ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li> <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li> <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li> <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li> </ul>
+      <h4>Bug修复</h4>
+      <ul> <li>1、修复混淆Swift项目时设置参数不起作用问题</li> </ul>
 ]]>
 </description>
-<pubDate>2019-04-08 周一 11:17:05 </pubDate>
+<pubDate>2019-04-08 周一 13:22:05 </pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta88.zip" sparkle:version="19040888" sparkle:dsaSignature="MEQCIHHukCLbSTzE5oydaBESK2/jDc9bl8ME/9jMLdbX8yEBAiA0v5qTbk8Lf6Yq08qTbyiDQKauQdDUgGoIN0vDMtWf5g=="
-    sparkle:shortVersionString="1.0.0 Beta88"
-    length="7751929"
+<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta4.zip"
+    sparkle:version="190408"
+    sparkle:dsaSignature="MEUCIQDVCUj3eBmNPgZNhucicOAIGW3YiE6MeXNP1VTdH4SXaQIgfxVf2Xj07QFy0keIQH2AeySkXCE7KP8bINFt0OVwBlo="
+    sparkle:shortVersionString="1.0.0 Beta4"
+    length="7752404"
     type="application/octet-stream"/>
 </item>
 
