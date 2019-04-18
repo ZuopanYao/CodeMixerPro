@@ -1,22 +1,26 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>CodeMixerPro</title>
-<item>
-<title>1.0.0 Beta5</title>
-<description><![CDATA[
-    <h2>2019-04-15</h2>
-      <h4>购买优化</h4>
-      <ul> <li>1、套餐价格优化</li> </ul>
-]]>
-</description>
-<pubDate>2019-04-15 13:05:05 </pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta5.zip"
-    sparkle:version="190415"
-    sparkle:dsaSignature="MEQCIBdfgKs/xlaDDOpVvEk/dY91q4p716r+UIGAbfe2gQgxAiBNW/l00WiyCZQvWIeT4H9c6bFNc3WSFOn1BLOVKJIeNw=="
-    sparkle:shortVersionString="1.0.0 Beta5"
-    length="7856773"
-    type="application/octet-stream"/>
-</item>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CodeMixerPro</title>
+        <item>
+            <title>Version 1.0.0 Beta6</title>
+            <description>
+                <![CDATA[
+                    <h3>2019-04-18</h3>
+                    
+                    <ul>
+                    <li>1、在线更新支持中文界面</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>周四, 18 4月 2019 10:20:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta6.zip"
+            length="7810479"
+            sparkle:version="190418"
+            sparkle:shortVersionString="1.0.0 Beta6"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCICBGYWSqxdy3HsXy/id3JkMTZrVqs8/dj9HPzOKTSJ0tAiEAoeWpAIOYfmgziQ7YpgarvWGGeQoHUkKYTeLfknPdvqw=" />
+        </item>
+    </channel>
+</rss>
 
-</channel></rss>
