@@ -3,23 +3,25 @@
     <channel>
         <title>CodeMixerPro</title>
         <item>
-            <title>Version 1.0.0 Beta6</title>
+            <title>Version 1.0.0 Beta7</title>
             <description>
                 <![CDATA[
-                    <h3>2019-04-18</h3>
+                    <h3>2019-04-19</h3>
                     
                     <ul>
-                    <li>1、在线更新支持中文界面</li>
+                    <li>1、修改类名不再允许修改文件名，如需要改文件名请使用[ 文件名 ]功能</li>
+                    <li>2、App主界面新增[ 文件名 ]功能</li>
+                    <li>3、混淆功能OC模式二下所有类不再继承UI相关的类, 避免在子线程调用导致崩溃</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周四, 18 4月 2019 10:20:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta6.zip"
-            length="7810479"
-            sparkle:version="190418"
-            sparkle:shortVersionString="1.0.0 Beta6"
+            <pubDate>周五, 19 4月 2019 16:23:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta7.zip"
+            length="7838062"
+            sparkle:version="190419"
+            sparkle:shortVersionString="1.0.0 Beta7"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCICBGYWSqxdy3HsXy/id3JkMTZrVqs8/dj9HPzOKTSJ0tAiEAoeWpAIOYfmgziQ7YpgarvWGGeQoHUkKYTeLfknPdvqw=" />
+            sparkle:dsaSignature="MEUCIQCClPydujEvEOG/OMA/306LWtFITJMV5f+2d1SJZTorIwIgKsOuuPP/Xc6tZZeJZCp9kbGdgxTJa0wkW1Dza1+cb/g=" />
         </item>
     </channel>
 </rss>
