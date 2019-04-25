@@ -3,23 +3,33 @@
     <channel>
         <title>CodeMixerPro</title>
         <item>
-            <title>Version 1.0.0 Beta8</title>
+            <title>Version 1.0.0 Beta9</title>
             <description>
                 <![CDATA[
-                    <h3>2019-04-22</h3>
+                    <h3>2019-04-25</h3>
                     
                     <ul>
-                    <li>1、增加冻结与解冻功能<br>冻结功能: 冻结成功后，设备无法使用CodeMixerPro, 授权时间停止计算<br>解冻功能: 解冻成功后，设备恢复使用CodeMixerPro, 授权时间恢复计算</li>
+                    <li>1、新增云端词库功能，可将自己词库保存到云端，每个人可建多个词库</li>
+                    <li>2、通过词库口令，可将词库分享给其他人</li>
+                    <li>3、不再提供默认词库</li>
+                    </ul>
+                    
+                    <h4>更新注意事项</h4>
+                    
+                    <ul>
+                    <li>更新此版本之前请备份好之前的词库，更新后词库将被清掉</li>
+                    <li>更新此版本之前请备份好之前的词库，更新后词库将被清掉</li>
+                    <li>更新此版本之前请备份好之前的词库，更新后词库将被清掉</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周一, 22 4月 2019 14:13:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta8.zip"
-            length="8652453"
-            sparkle:version="190422"
-            sparkle:shortVersionString="1.0.0 Beta8"
+            <pubDate>周四, 25 4月 2019 16:55:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/CodeMixerPro/git/raw/master/CodeMixerPro_V1.0.0_Beta9.zip"
+            length="8684307"
+            sparkle:version="190425"
+            sparkle:shortVersionString="1.0.0 Beta9"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCICDB9A3RrsXth9Dd27z+cQdAmrU3PZ8unDj5GELKM7IkAiEAqNeyncf9jsW+mkTJWZVWq+h47vKYyAVmZceOonPSFtU=" />
+            sparkle:dsaSignature="MEUCIDwGLAXGjZdUBmCFoz5Zk+eFNLU52afjFKGc4Sq5XmknAiEA2FSv2Tt9sJC+2tfLxoP4p+qPbjJkUHf+megasEO+Cvk=" />
         </item>
     </channel>
 </rss>
