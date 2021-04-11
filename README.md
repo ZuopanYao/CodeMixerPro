@@ -1,3 +1,5 @@
+# 目前仅支持 CC 系列的工具，旧版不再支持，如出现不可用，请前往 [https://app.yaozuopan.top](https://app.yaozuopan.top) 下载最新版
+
 # CodeMixerPro
 macOS平台下的iOS混淆/添加垃圾代码工具,生成的代码规范,提高马甲包的过审机率，支持Swift/Objective-C，CodeMixer的增强版
 
